@@ -1,0 +1,1 @@
+DELETE FROM oleander.users WHERE username LIKE $1;
